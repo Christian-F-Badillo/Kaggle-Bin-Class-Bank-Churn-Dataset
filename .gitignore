@@ -19,8 +19,6 @@ build/
 *.ipynb_checkpoints/
 
 # Data files
-data/
-*.csv
 *.xlsx
 *.xls
 *.json
